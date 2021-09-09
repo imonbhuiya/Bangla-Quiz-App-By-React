@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "question": "কোন বানানটি শুদ্ধ?",
+      "choices": ["সূচিষ্মিতা", "সূচিস্মিতা সূ", "চীস্মিতা", "সুচিস্মিতা"],
+      "answer": "সূচিস্মিতা সূ"
+    },
+    {
+      "question": "Push এবং Pop নিচের কার সাথে সম্পর্কিত? ?",
+      "choices": ["Queue", "Stack", "Union", "Array"],
+      "answer": "Stack"
+    },
+    {
+      "question": "TCP দিয়ে কোনটি বোঝানো হয়?",
+      "choices": ["প্রোগ্রাম", "প্রোটোকল", "প্রোগ্রামিং", "ফ্লোচার্ট"],
+      "answer": "প্রোটোকল"
+    },
+    {
+      "question": "নিচের কোনটি ইনপুট ডিভাইস ?",
+      "choices": ["OMR", "COM", "Plotter", "Monitor"],
+      "answer": "OMR"
+    },
+    {
+      "question": "কোন চিহ্নটি ইমেইল ঠিকানায় অবশ্যই থাকবে?",
+      "choices": ["#", "%", "&", "@"],
+      "answer": "@"
+    },
+    {
+      "question": "কম্পিউটার নেটওয়ার্কে ও এস আই (OSI)মডেমের স্তর কয়টি? ?",
+      "choices": ["5", "6", "8", "7"],
+      "answer": "7"
+    },
+    {
+      "question": "ROM ভিত্তিক প্রোগ্রামের নাম কি?",
+      "choices": ["malware", "Firmware", "virus", "lip-lop"],
+      "answer": "Firmware"
+    },
+    {
+      "question": "কোন মাধ্যমে আলোর পালস ব্যবহৃত হয়?",
+      "choices": ["তামার তার", "কো- এক্সিয়াল ক্যাবল", "অপটিক্যাল ফাইবার", "ও আর এস মিডিয়া"],
+      "answer": "অপটিক্যাল ফাইবার"
+    },
+    {
+      "question": "What is the capital of Germany ?",
+      "choices": ["Wolfsburg", "Munich", "Berlin", "Frankfurt"],
+      "answer": "Berlin"
+    }
+  ]
+}
